@@ -137,6 +137,10 @@ footer {
 	font-size: 14px;
 }
 
+footer p {
+	padding-left: 35px;
+}
+
 .level-down {
 	margin-top: -35px;
 }
